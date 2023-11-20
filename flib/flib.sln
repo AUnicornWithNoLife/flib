@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flib", "flib.csproj", "{4B691C18-2032-4650-BD35-F738C9BB467E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B691C18-2032-4650-BD35-F738C9BB467E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B691C18-2032-4650-BD35-F738C9BB467E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B691C18-2032-4650-BD35-F738C9BB467E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B691C18-2032-4650-BD35-F738C9BB467E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BED4EB9-754C-4031-8698-5FF7DF890F7D}
+	EndGlobalSection
+EndGlobal
